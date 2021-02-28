@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwRCSkfR0LON+QX5vVUTNkTZI0CkPW3wkLhqA0ieMDAa+mRWQcnUSz8OUK9wVqtDO2wRanMdfcv98+5RUj+fUQ==",
+  "success": true,
+  "projectFilePath": "d:\\Project\\BBooking\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DuckKick\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DuckKick\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

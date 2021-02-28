@@ -1,0 +1,9 @@
+d:\Project\BBooking\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+d:\Project\BBooking\Domain\bin\Debug\netstandard2.0\Domain.dll
+d:\Project\BBooking\Domain\bin\Debug\netstandard2.0\Domain.pdb
+d:\Project\BBooking\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+d:\Project\BBooking\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+d:\Project\BBooking\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+d:\Project\BBooking\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+d:\Project\BBooking\Domain\obj\Debug\netstandard2.0\Domain.dll
+d:\Project\BBooking\Domain\obj\Debug\netstandard2.0\Domain.pdb

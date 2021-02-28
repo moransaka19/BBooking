@@ -1,0 +1,12 @@
+d:\Project\BBooking\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+d:\Project\BBooking\DAL\bin\Debug\netstandard2.1\DAL.dll
+d:\Project\BBooking\DAL\bin\Debug\netstandard2.1\DAL.pdb
+d:\Project\BBooking\DAL\bin\Debug\netstandard2.1\Domain.dll
+d:\Project\BBooking\DAL\bin\Debug\netstandard2.1\Domain.pdb
+d:\Project\BBooking\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+d:\Project\BBooking\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+d:\Project\BBooking\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+d:\Project\BBooking\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+d:\Project\BBooking\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+d:\Project\BBooking\DAL\obj\Debug\netstandard2.1\DAL.dll
+d:\Project\BBooking\DAL\obj\Debug\netstandard2.1\DAL.pdb
