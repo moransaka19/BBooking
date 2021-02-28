@@ -27,7 +27,7 @@ namespace BLL.Services
                 mySmtpClient.Credentials = basicAuthenticationInfo;
 
                 // add from,to mailaddresses
-                MailAddress from = new MailAddress("bbooking.2802@gmail.com", "TestFromName");
+                MailAddress from = new MailAddress("bbooking.2802@gmail.com", "BBooking");
                 MailAddress to = new MailAddress(email, "Dear Client");
                 MailMessage myMail = new System.Net.Mail.MailMessage(from, to);
 
@@ -36,7 +36,7 @@ namespace BLL.Services
                 myMail.ReplyToList.Add(replyTo);
 
                 // set subject and encoding
-                myMail.Subject = "Test message";
+                myMail.Subject = "New Book!!!";
                 myMail.SubjectEncoding = System.Text.Encoding.UTF8;
 
                 // set body-message and encoding
